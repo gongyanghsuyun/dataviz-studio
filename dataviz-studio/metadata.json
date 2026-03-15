@@ -1,0 +1,5 @@
+{
+  "name": "DataViz Studio",
+  "description": "A customizable chart visualization tool supporting line and bar charts with user-defined data and axis labels.",
+  "requestFramePermissions": []
+}
